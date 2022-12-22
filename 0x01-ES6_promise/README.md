@@ -1,3 +1,4 @@
 # ES6 Promises
-## Description
-Learn promises
+
+## Descriptions
+Contains files that returns promises
